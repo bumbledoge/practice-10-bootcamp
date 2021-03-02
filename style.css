@@ -8,8 +8,24 @@
 }
 body {
     font-family: 'Inter', sans-serif;
-}
+    
 
+}
+.bg1 {
+    top: 50px;
+    left: 600px;
+
+    width: 600px;
+}
+.quotes {
+    width: 150px;
+    top: 150px;
+    left: 150px;
+}
+.wave {
+    bottom: 0px;
+    left: 0px;
+}
 .person {
     display: flex;
     position: absolute;
